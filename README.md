@@ -1,5 +1,5 @@
 # Power-BI
-Analyzing and Visualizing Data with Power BI
+I hava taken Analyzing and Visualizing Data with Power BI online exam and here is the each lap files for the reference.
 
 
 This repository contains the lab files and other resources which i used to take Microsoft Analyzing and Visualizing Data with Power BI exam online. 
