@@ -15,4 +15,8 @@ Lap 8 : Mobile App
 
 i have completed the certification and learned how to analyze and visualize data in Power BI.
 
+## Next
+
+1. Continue to learn Power Apps
+
 
