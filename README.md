@@ -13,4 +13,6 @@ Lap 6 : Direct Connectivity
 Lap 7 : Developer API
 Lap 8 : Mobile App
 
-So for each lap i have worked out my self to take complete exam and learned how to analyze and visualize in Power BI.
+i have completed the certification and learned how to analyze and visualize data in Power BI.
+
+
